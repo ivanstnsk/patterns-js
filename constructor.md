@@ -5,9 +5,6 @@ In classical object-oriented programming languages, a constructor is a special m
 
 Object constructors are used to create specific types of objects - both preparing the object for use and accepting arguments which a constructor can use to set the values of member properties and methods when the object is first created.
 
-### History
-From a historical perspective, the Module pattern was originally developed by a number of people including Richard Cornford in 2003. It was later popularized by Douglas Crockford in his lectures. Another piece of trivia is that if you've ever played with Yahoo's YUI library, some of its features may appear quite familiar and the reason for this is that the Module pattern was a strong influence for YUI when creating their components.
-
 ### Example
 The three common ways to create new objects in JavaScript are as follows:
 ```javascript

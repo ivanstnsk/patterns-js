@@ -1,4 +1,4 @@
-# Module
+# Module [⬈](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript)
 
 ### Description
 Modules are an integral piece of any robust application's architecture and typically help in keeping the units of code for a project both cleanly separated and organized.

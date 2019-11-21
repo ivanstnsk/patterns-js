@@ -16,7 +16,7 @@ A pattern is a reusable solution that can be applied to commonly occurring probl
 * [X] [Singleton Pattern](singleton.md)
 * [ ] Observer Pattern
 * [X] [Mediator Pattern](mediator.md)
-* [ ] Prototype Pattern
+* [X] [Prototype Pattern](prototype.md)
 * [ ] Command Pattern
 * [ ] Facade Pattern
 * [ ] Factory Pattern
